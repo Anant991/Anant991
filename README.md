@@ -1,9 +1,7 @@
-[![MasterHead]("https://www.canva.com/design/DAFff8YZ9Sg/4kbMSZ0Mdgx13sJ96LhruA/edit?utm_content=DAFff8YZ9Sg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")]
 <h1 align="center">Hi 👋, I'm Anant Kala</h1>
 <h3 align="center">Quick Learner</h3>
 
-<img align="right" alt="Coding" width="400"src="![image](https://user-images.githubusercontent.com/129866324/230710049-c1a508cb-2ad6-4fc4-adf5-72895be641b3.png)
-">
+<img align="right"alt="Coding"width="400"src="![image](https://user-images.githubusercontent.com/129866324/230710049-c1a508cb-2ad6-4fc4-adf5-72895be641b3.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anant991&label=Profile%20views&color=0e75b6&style=flat" alt="anant991" /> </p>
 
